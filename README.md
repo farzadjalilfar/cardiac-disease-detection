@@ -1,5 +1,4 @@
-# cardiac-disease-detection
-Heart disease detection using II-AdaBoost + KPCA + Leaping Frog algorithms
+
 # Cardiac Disease Detection
 
 Heart disease classification using a hybrid ensemble approach.
